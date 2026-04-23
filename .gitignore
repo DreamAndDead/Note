@@ -5,3 +5,7 @@ public
 .quartz-cache
 private/
 .vscode/
+
+content/Diary
+content/TaskNotes
+
